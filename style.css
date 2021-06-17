@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    color: white;
+    width:100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px black;
+    background-color: gray !important;
+}
+.heading_div{
+    float: none;
+    border-radius: 100px;
+    box-shadow: 5px 5px 14px gray;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+.heading_div2{
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 5px 5px 25px black;
+}
+body{
+    background-size: contain ;
+}
+.family_tag{
+    box-shadow: 20px;
+    border-radius: 100px;
+    font-weight: bolder;
+}
+.family_tag:hover{
+    background-color: rgb(33, 33, 151);
+}
+canvas{
+    border: 10px solid gray;
+    border-radius: 20px;
+    margin-top: 100px;
+}
